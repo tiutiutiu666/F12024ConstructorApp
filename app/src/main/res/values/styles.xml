@@ -1,0 +1,8 @@
+<resources>
+    <style name="borderlingkaran" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="corner20" parent="">
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>
